@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Gen Z from Kandal.<br><br>- 🔭 I’m working as python script<br>- 📚 I'm currently learning data analysis<br>- ⚡ In my free time I ...</p>
 
 ###
 
